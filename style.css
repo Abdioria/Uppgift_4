@@ -1,0 +1,44 @@
+
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;
+
+
+
+}
+
+article{
+
+    background-color: aqua;
+
+
+
+}
+
+footer{
+margin-top: 50px;
+height: 50px;
+background-color:green;
+
+
+}
+
+section{
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 10px;
+    
+}
+
+a{
+text-decoration: none;
+color: red;
+
+}
+
+
+footer{
+
+    color: black;
+
+}
