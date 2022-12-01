@@ -21,10 +21,16 @@ section {
 
 a {
     text-decoration: none;
-    color: red;
+    color: green;
+
 
 }
 
+a:hover {
+    text-decoration: underline;
+
+
+}
 
 footer {
 
